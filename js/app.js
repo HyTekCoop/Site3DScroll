@@ -22,6 +22,8 @@ window.onscroll = function () {
     })
 }
 
+window.scrollTo(0,1);
+
 //Audio
 
 const soundButton = document.querySelector('.soundbutton'),
